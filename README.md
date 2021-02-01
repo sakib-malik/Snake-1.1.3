@@ -5,7 +5,7 @@ RULES:
 
 2. Game ends if Snake touches itself.
 
-2.1 Except the cases when it touches itself horizontally or vertically in that cases game continues in original direction.
+  2.1 Except the cases when it touches itself horizontally or vertically in that cases game continues in original direction.
 
 3. Score Increases if you eat red coloured food
 
